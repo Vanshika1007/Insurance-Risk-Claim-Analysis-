@@ -64,4 +64,3 @@ The dataset contains historical insurance claim data, including:
 
 ---
 
-## 📂 Project Structure
