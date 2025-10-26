@@ -64,3 +64,12 @@ The dataset contains historical insurance claim data, including:
 
 ---
 
+
+## Screenshots
+
+### 🔹 Overall Dashboard  
+![Overall Dashboard](overview.PNG)  
+### 🔹 Dashboard  
+![Dashboard](next.PNG)  
+
+
